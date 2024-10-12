@@ -38,7 +38,7 @@ git clone https://github.com/qhazeem/swavs.git
 cd swavs
 
 # Install required packages
-pip install -r requirements.txt
+pip install -r requirements.md
 
 # Run the scanner
 python -m swavs
